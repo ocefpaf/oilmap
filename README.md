@@ -2,9 +2,9 @@
 
 ## Continuous Integration Tests
 
-| Platform        | Status                                                                                                                                              |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Linux and macOS | [![Travis](https://img.shields.io/travis/com/ocefpaf/oilmap/master.svg?label=Linux/macOS)](https://travis-ci.com/ocefpaf/oilmap)                         |
+| Platform        | Status                                                                                                                                                  |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Linux and macOS | [![Travis](https://img.shields.io/travis/com/ocefpaf/oilmap/master.svg?label=Linux/macOS)](https://travis-ci.com/ocefpaf/oilmap)                        |
 | Windows         | [![AppVeyor](https://img.shields.io/appveyor/ci/ocefpaf/oilmap/master.svg?label=Windows)](https://ci.appveyor.com/project/ocefpaf/oilmap/branch/master) |
 
 ## Binder
